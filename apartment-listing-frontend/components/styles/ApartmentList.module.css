@@ -1,0 +1,22 @@
+.apartmentList {
+    margin-bottom: 20px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  
+  .activePage {
+    font-weight: bold;
+    color: blue;
+    cursor: not-allowed !important;
+  }
+  .defaultPage {
+    cursor: pointer;
+  }
+  

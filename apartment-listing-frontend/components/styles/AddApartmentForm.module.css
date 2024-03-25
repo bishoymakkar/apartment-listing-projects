@@ -1,0 +1,28 @@
+.form_container {
+    margin-top: 20px;
+  }
+  
+  .form_container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form_container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .form_container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form_container button:hover {
+    background-color: #0056b3;
+  }
+  
