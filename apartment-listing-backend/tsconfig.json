@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es2020",  // Set the target ECMAScript version (adjust as needed)
+      "module": "commonjs", // Specify the module system (commonjs for Node.js)
+      "strict": true,     // Enable strict mode for type safety
+      "esModuleInterop": true, // Allow for seamless ES module imports
+      "allowSyntheticDefaultImports": true, // Allow default imports from non-modular files
+      "outDir": "dist",   // Output directory for compiled JavaScript files
+      "sourceMap": true,  // Generate source maps for debugging
+      "forceConsistentCasingInFileNames": true, // Enforces consistent casing for file names
+      "strictNullChecks": true  // Enables strict null checks for better type safety
+    },
+    "include": ["src/**/*.ts"] // Include all TypeScript files under the "src" directory for compilation
+  }
+  

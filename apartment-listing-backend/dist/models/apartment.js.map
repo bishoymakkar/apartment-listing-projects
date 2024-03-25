@@ -1,0 +1,1 @@
+{"version":3,"file":"apartment.js","sourceRoot":"","sources":["../../src/models/apartment.ts"],"names":[],"mappings":";;;;;AACA,wDAAgC;AAShC,MAAM,eAAe,GAAG,IAAI,kBAAQ,CAAC,MAAM,CAAY;IACrD,IAAI,EAAE,MAAM;IACZ,WAAW,EAAE,MAAM;IACnB,KAAK,EAAE,MAAM;IACb,QAAQ,EAAE,MAAM;CACjB,CAAC,CAAC;AAEH,kBAAe,kBAAQ,CAAC,KAAK,CAAY,WAAW,EAAE,eAAe,CAAC,CAAC"}
